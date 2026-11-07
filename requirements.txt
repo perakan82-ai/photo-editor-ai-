@@ -1,0 +1,7 @@
+# Tested locally with: Python 3.13, Pillow 12.3, NumPy 2.5, OpenCV 5.0, pytest 9.1
+# Streamlit itself was NOT available in the build environment (see README).
+streamlit>=1.40,<2
+Pillow>=10.1
+numpy>=1.26
+opencv-python-headless>=4.9
+pytest>=8.0
